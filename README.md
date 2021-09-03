@@ -1,4 +1,6 @@
-# PrimerEjemplo
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
@@ -9,6 +11,11 @@ TODO: Guide users through getting your code up and running on their own system. 
 2.	Software dependencies
 3.	Latest releases
 4.	API references
+
+# Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
