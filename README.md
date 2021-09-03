@@ -15,7 +15,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 # Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Johnee8686/PrimerEjemplo
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
